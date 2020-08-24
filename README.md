@@ -1,9 +1,5 @@
 # anystore - Billing and Inventory Management System Build in C# and MS SQL Server 2014
 
-This is a simple desktop application developed in microsoft platform while creating a Tutorial Series for youtube.
-You can learn develop this project on yor self by watching the tutorial series at https://www.youtube.com/watch?v=Lttd3ohTarE&list=PLBLPjjQlnVXVnz3Hksi1th0uHXxh6Dm3h
-
-# YouTube Channel - https://www.youtube.com/vijaythapa
 
 ## Tools and Technologies Used
 1. C# programming language in 3-tier architecture
@@ -32,5 +28,3 @@ Password: admin
 ### For User
 Username: user
 Password: user
-
-For any queries, Email at - hi@vijaythapa.com
